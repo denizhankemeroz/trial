@@ -6,5 +6,6 @@ public class main {
         System.out.println("321");
         System.out.println("Hello");
         System.out.println("641");
+        System.out.println("sum");
     }
 }
