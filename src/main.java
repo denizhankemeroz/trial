@@ -3,5 +3,6 @@ public class main {
         System.out.println("s");
         System.out.println("s");
         System.out.println("123");
+        System.out.println("321")
     }
 }
